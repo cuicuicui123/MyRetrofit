@@ -1,0 +1,9 @@
+#Automatically generated header file. Editing this file may cause problems.
+#Thu Jun 21 09:34:04 CST 2018
+serverVersion=2.6
+dexState=NO_CHANGE
+package=com.cwc.testannotation
+version=5
+serverVersionCode=71
+dexManagerName=ExtractFromApkDexManager
+appTheme=@style/AppTheme
